@@ -1,4 +1,5 @@
 ## Bank of Flatiron
+Edith Wanguba
 For this project, you’ll be building out a React application that displays a list of your recent bank transactions, among other features.
 
 As a user, I can:
@@ -80,3 +81,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### License 
+This project is free to use.
