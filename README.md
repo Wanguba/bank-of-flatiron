@@ -1,3 +1,15 @@
+## Bank of Flatiron
+For this project, you’ll be building out a React application that displays a list of your recent bank transactions, among other features.
+
+As a user, I can:
+
+    See a table of all transactions.
+     Fill out and submit the form to add a new transaction. This should add the new transaction to the table *the new transaction does not have to be persisted to the backend*
+
+    Filter transactions by typing into the search bar. Only transactions with a description matching the search term should be shown in the transactions table.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
